@@ -17,6 +17,7 @@
             <asp:TextBox ID="tboxMessage" runat="server" Width="371px"></asp:TextBox>
         </div>
 
+        <!-- Here's my button comment -->
         <asp:Button ID="btnText" runat="server" Text="Button" CssClass="auto-style1" OnClick="btnText_Click" />
     </form>
 </body>
