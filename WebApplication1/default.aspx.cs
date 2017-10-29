@@ -16,7 +16,7 @@ namespace WebApplication1
 
         protected void btnText_Click(object sender, EventArgs e)
         {
-            tboxMessage.Text = "Here is my sample text.";
+            tboxMessage.Text = "Here is my sample text. Here's another change.";
         }
     }
 }
